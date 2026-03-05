@@ -1,0 +1,18 @@
+
+# NETFLIX CONTENT LIBRARY - KEY METRICS DASHBOARD
+## Summary Statistics
+
+| Metric | Value | Interpretation |
+|--------|-------|----------------|
+| Total Titles | 8,793 | Complete Netflix library as of dataset |
+| Movies | 6,129 | 69.7% of total content |
+| TV Shows | 2,664 | 30.3% of total content |
+| Countries Represented | 85 | Global content reach |
+| Unique Genres | 513 | Content diversity |
+| Date Range | 2008 - 2021 | 13 years of content additions |
+
+## Key Insights from Dashboard:
+1. **Content Mix**: Netflix is primarily a movie platform (70% movies, 30% TV shows)
+2. **Global Reach**: Content comes from 85 different countries
+3. **Genre Diversity**: 513 unique genres show extensive content categorization
+4. **Growth Period**: Content added over 13-year period (2008-2021)

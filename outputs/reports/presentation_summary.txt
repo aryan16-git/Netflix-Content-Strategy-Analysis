@@ -1,0 +1,61 @@
+
+NETFLIX CONTENT STRATEGY ANALYSIS
+==================================
+Key Takeaways for Stakeholders
+
+---
+
+LIBRARY OVERVIEW
+----------------
+Total Titles: 8,793
+  - Movies: 6,129 (69.7%)
+  - TV Shows: 2,664 (30.3%)
+
+---
+
+TOP GENRES
+----------
+1. International Movies - 2752 titles
+2. Dramas - 2426 titles  
+3. Comedies - 1674 titles
+
+Plus 39 other genre categories
+
+---
+
+GLOBAL FOOTPRINT
+----------------
+85 Countries Represented
+  - US: 45.9%
+  - India: 1008 titles
+  - UK: 627 titles
+  - Japan: 271 titles
+
+---
+
+GROWTH STORY
+------------
+Timeline: 2008 -> 2021
+Growth: +6172% after 2016
+Peak: 2019 (2016 titles)
+
+---
+
+TOP 3 RECOMMENDATIONS
+---------------------
+
+1. Balance Content Mix
+   - Maintain 70/30 movie/TV ratio
+   - Monitor engagement per title type
+
+2. Expand Internationally
+   - Reduce US dependency (45.9% -> 60%)
+   - Invest in top markets
+
+3. Optimize Genre Strategy
+   - Leverage 42 genres for recommendations
+   - Strengthen International Movies and Dramas categories
+
+---
+
+Data-driven insights from analysis of 8,793 Netflix titles
